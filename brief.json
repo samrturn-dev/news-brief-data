@@ -1,0 +1,328 @@
+{
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T21:29+00:00",
+ "markets": [
+  {
+   "name": "FTSE 100",
+   "value": 10346.34,
+   "change_pct": -1.02
+  },
+  {
+   "name": "SMI",
+   "value": 14572.14,
+   "change_pct": -1.02
+  },
+  {
+   "name": "S&P 500",
+   "value": 6910.39,
+   "change_pct": -3.7
+  },
+  {
+   "name": "VAS",
+   "value": 106.53,
+   "change_pct": -1.54
+  },
+  {
+   "name": "VEU",
+   "value": 113.25,
+   "change_pct": -2.45
+  },
+  {
+   "name": "VGS",
+   "value": 158.63,
+   "change_pct": -2.76
+  },
+  {
+   "name": "GBP/CHF",
+   "value": 1.0986,
+   "change_pct": -0.92
+  },
+  {
+   "name": "GBP/USD",
+   "value": 1.3078,
+   "change_pct": -0.52
+  },
+  {
+   "name": "Gold",
+   "value": 3516.4,
+   "change_pct": -4.59
+  },
+  {
+   "name": "Bitcoin",
+   "value": 58568.04,
+   "change_pct": -5.39
+  }
+ ],
+ "sections": [
+  {
+   "key": "top",
+   "title": "Top stories",
+   "emoji": "🌍",
+   "stories": [
+    {
+     "headline": "UK and EU agree reset deal",
+     "summary": "Prime Minister Andy Burnham and EU officials agreed a deal covering British food exports, emissions trading and a youth experience scheme. The tuition fees issue remains unresolved, according to No 10. Brussels sources say some of the agreements may not be final.",
+     "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": [
+      "Al Jazeera",
+      "BBC Business",
+      "FT",
+      "Guardian Business",
+      "NPR World"
+     ]
+    },
+    {
+     "headline": "Russian missile hits Poland",
+     "summary": "Poland says a Russian missile struck its territory while Ukraine's allies were holding a military exercise. Nobody was hurt and no damage has been reported, and Warsaw called it a \"provocation\" from Moscow.",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Russia launches large air attack on Kyiv",
+     "summary": "Russia targeted Kyiv crossings days after Ukraine hit the Crimean Bridge. The attack was one of Russia's biggest air strikes yet, and Moscow rejected the prospect of security guarantees for Ukraine.",
+     "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Trump, Xi and Putin summit yields little",
+     "summary": "Trump held a trilateral meeting with Xi Jinping and Vladimir Putin in China and offered little concrete result, beyond a joint statement on unity over some issues. He defended his relationship with Putin at a White House press conference.",
+     "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+     "source": "NPR World",
+     "paywalled": false,
+     "also": [
+      "Al Jazeera"
+     ]
+    },
+    {
+     "headline": "Estonia shuts road borders with Russia",
+     "summary": "Estonia has closed its road border crossings after an attack on a drone manufacturer. Russia complained of a \"new Iron Curtain\".",
+     "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
+     "source": "Al Jazeera",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Anthropic lists in record IPO",
+     "summary": "Anthropic raised $81bn in the biggest IPO in history and became one of the world's most valuable public companies. Its shares then fell on the second day of trading, though they stayed above the IPO price.",
+     "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "paywalled": false,
+     "also": [
+      "BBC Tech",
+      "Bloomberg Markets",
+      "MarketWatch"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "money",
+   "title": "Markets & money",
+   "emoji": "💷",
+   "stories": [
+    {
+     "headline": "Global tech and AI sell-off deepens",
+     "summary": "US tech stocks fell sharply as the AI trade unravelled, with the Nasdaq 100 having its worst week since 2020 and the S&P 500 entering a correction. Asian markets recorded their worst week since 2020, and bank stocks had their worst week since April 2025.",
+     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": [
+      "Bloomberg Markets",
+      "FT",
+      "Guardian World"
+     ]
+    },
+    {
+     "headline": "Nvidia shares post longest weekly losing streak since 2008",
+     "summary": "Nvidia stock fell 14% and ended its longest weekly losing streak since the 2008 financial crisis, dropping to third behind Apple and Microsoft. California has subpoenaed the company over whether chip exports reached China, and the SEC is reportedly probing its accounting.",
+     "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+     "source": "CNBC",
+     "paywalled": false,
+     "also": [
+      "BBC Business",
+      "Bloomberg Markets",
+      "Guardian World",
+      "MarketWatch"
+     ]
+    },
+    {
+     "headline": "Trump threatens tax on overseas AI data centres",
+     "summary": "Trump threatened a \"tremendous\" tax on US companies building data centres abroad, though he gave little detail. Analysts noted the stock market kept falling after the threat.",
+     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": [
+      "CNBC",
+      "FT",
+      "MarketWatch"
+     ]
+    },
+    {
+     "headline": "UK government borrowing below forecast",
+     "summary": "UK public sector borrowing in October was about £1bn lower than expected, at £17bn, giving a boost to chancellor John Healey. Debt interest costs rose over the month.",
+     "link": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
+     "source": "Guardian Business",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "GTA 6 sales top $2.3bn",
+     "summary": "Rockstar Games released Grand Theft Auto VI after a 13-year wait, with estimated sales topping $2.3bn according to one report and $3.8bn according to another. Take-Two's share price has not reflected the launch.",
+     "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "paywalled": false,
+     "also": [
+      "FT",
+      "MarketWatch"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "sport",
+   "title": "Sport",
+   "emoji": "⚽",
+   "stories": [
+    {
+     "headline": "Villa and Premier League: Chelsea fined £150,000",
+     "summary": "Chelsea were fined £150,000 by the FA for anti-Catholic and anti-Irish chanting during their FA Cup third-round win at Charlton in January. Chelsea's Joao Pedro is again injured and missing for Saturday's match.",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Premier League",
+     "paywalled": false,
+     "also": [
+      "BBC Premier League"
+     ]
+    },
+    {
+     "headline": "England and Australia cricket",
+     "summary": "England return to the MCG for the Australia T20 series, with Aneurin Donald in the T20 squad. Pat Cummins has kept Cricket Australia's backing as Test captain despite the ongoing sandpaper controversy.",
+     "link": "https://www.cricinfo.com/ci/content/story/1563331.html?ex_cid=OTC-RSS",
+     "source": "ESPNcricinfo",
+     "paywalled": false,
+     "also": [
+      "BBC Cricket",
+      "Guardian AU Sport"
+     ]
+    },
+    {
+     "headline": "Wales beat All Blacks, face Australia",
+     "summary": "Wales beat New Zealand for the first time in 73 years and make four changes for their match against Australia. Stafford McDowall is set to captain Scotland against Japan after Rory Darge's injury.",
+     "link": "https://www.theguardian.com/sport/2026/nov/20/rugby-union-wales-australia-steve-tandy-nations-championship",
+     "source": "Guardian AU Sport",
+     "paywalled": false,
+     "also": [
+      "BBC Rugby Union"
+     ]
+    },
+    {
+     "headline": "Alcaraz wins at ATP Finals",
+     "summary": "Carlos Alcaraz beat Flavio Cobolli 6-4, 6-1 in the ATP Finals group stage, making it three straight-sets wins from three.",
+     "link": "https://www.theguardian.com/sport/live/2026/nov/20/carlos-alcaraz-v-flavio-cobolli-atp-finals-tennis-group-stage-live",
+     "source": "Guardian AU Sport",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Charley Hull one shot off lead at LPGA finale",
+     "summary": "England's Charley Hull shot a six-under 66 to sit one stroke behind the first-round leader at the LPGA's season-ending CME Group Tour Championship.",
+     "link": "https://www.bbc.co.uk/sport/golf/articles/cmx20gypx244o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Golf",
+     "paywalled": false,
+     "also": []
+    }
+   ]
+  },
+  {
+   "key": "science",
+   "title": "Science, tech & climate",
+   "emoji": "🔬",
+   "stories": [
+    {
+     "headline": "Carbon removal and capture moves forward",
+     "summary": "Canada launched a carbon dioxide removal procurement and listed 19 approved suppliers. Japanese direct air capture startup Planet Savers secured over $10m to scale its zeolite technology.",
+     "link": "https://carbonherald.com/canada-launches-landmark-carbon-removal-procurement-listing-19-approved-suppliers/?utm_source=rss&utm_medium=rss&utm_campaign=canada-launches-landmark-carbon-removal-procurement-listing-19-approved-suppliers",
+     "source": "Carbon Herald",
+     "paywalled": false,
+     "also": [
+      "Carbon Herald"
+     ]
+    },
+    {
+     "headline": "EU and UK link carbon markets",
+     "summary": "The EU and UK concluded negotiations to link their Emissions Trading Systems, which Carbon Herald says opens billions in CO2 storage opportunities. Draft COP31 text reportedly drops fossil fuel phaseout language in favour of carbon capture.",
+     "link": "https://carbonherald.com/eu-and-uk-seal-carbon-market-deal-opening-billions-in-co2-storage-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=eu-and-uk-seal-carbon-market-deal-opening-billions-in-co2-storage-opportunities",
+     "source": "Carbon Herald",
+     "paywalled": false,
+     "also": [
+      "Carbon Herald"
+     ]
+    },
+    {
+     "headline": "Dutch watchdog warns against AI smart glasses",
+     "summary": "A Dutch watchdog told people not to buy AI smart glasses after tests showed some misread medicine instructions or pretended to have called an ambulance.",
+     "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Tech",
+     "paywalled": false,
+     "also": []
+    }
+   ]
+  },
+  {
+   "key": "good",
+   "title": "Good news",
+   "emoji": "🌱",
+   "stories": [
+    {
+     "headline": "Kansas teen's stolen equipment replaced",
+     "summary": "After about $20,000 of landscaping machinery was stolen from teen business owner Sonny Gallardo, his community raised money to replace all of it.",
+     "link": "https://www.goodnewsnetwork.org/community-steps-up-to-replace-teen-business-owners-stolen-landscaping-equipment/",
+     "source": "Good News Network",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Neighbours raise $109,000 for 87-year-old",
+     "summary": "After one neighbour checked on Carole, an 87-year-old with Parkinson's, strangers and neighbours raised more than $109,000 for her.",
+     "link": "https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/",
+     "source": "Good News Network",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Chef cooks weekly for 100 people in need",
+     "summary": "Toronto chef Maddy Goldberg has cooked for 100 people in need every Tuesday for years, using random food bank ingredients.",
+     "link": "https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/",
+     "source": "Good News Network",
+     "paywalled": false,
+     "also": []
+    }
+   ]
+  },
+  {
+   "key": "interesting",
+   "title": "One interesting read",
+   "emoji": "📖",
+   "stories": [
+    {
+     "headline": "Montreal uses ocean sounds against traffic noise",
+     "summary": "A pocket park in Montreal's Verdun borough is using soothing ocean sounds to mask traffic noise from nearby busy roads.",
+     "link": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
+     "source": "Reasons to be Cheerful",
+     "paywalled": false,
+     "also": []
+    }
+   ]
+  }
+ ],
+ "feed_failures": [],
+ "usage": {
+  "input_tokens": 17114,
+  "output_tokens": 2468
+ }
+}
