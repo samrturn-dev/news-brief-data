@@ -1,56 +1,57 @@
 {
- "date": "2026-11-20",
- "generated_at": "2026-11-20T21:29+00:00",
+ "date": "2026-11-23",
+ "reading_minutes": 7,
+ "generated_at": "2026-11-23T20:01+00:00",
  "markets": [
   {
    "name": "FTSE 100",
-   "value": 10346.34,
-   "change_pct": -1.02
+   "value": 10480.82,
+   "change_pct": 1.3
   },
   {
    "name": "SMI",
-   "value": 14572.14,
-   "change_pct": -1.02
+   "value": 14735.64,
+   "change_pct": 1.12
   },
   {
    "name": "S&P 500",
-   "value": 6910.39,
-   "change_pct": -3.7
+   "value": 7252.89,
+   "change_pct": 4.96
   },
   {
    "name": "VAS",
-   "value": 106.53,
-   "change_pct": -1.54
+   "value": 106.19,
+   "change_pct": -0.32
   },
   {
    "name": "VEU",
-   "value": 113.25,
-   "change_pct": -2.45
+   "value": 113.42,
+   "change_pct": 0.15
   },
   {
    "name": "VGS",
-   "value": 158.63,
-   "change_pct": -2.76
+   "value": 157.97,
+   "change_pct": -0.42
   },
   {
    "name": "GBP/CHF",
-   "value": 1.0986,
-   "change_pct": -0.92
+   "value": 1.097,
+   "change_pct": -0.68
   },
   {
    "name": "GBP/USD",
-   "value": 1.3078,
-   "change_pct": -0.52
+   "value": 1.3036,
+   "change_pct": -0.39
   },
   {
    "name": "Gold",
-   "value": 3516.4,
-   "change_pct": -4.59
+   "value": 3640.8,
+   "change_pct": 3.57
   },
   {
    "name": "Bitcoin",
-   "value": 58568.04,
-   "change_pct": -5.39
+   "value": 61273.1,
+   "change_pct": 0.18
   }
  ],
  "sections": [
@@ -60,63 +61,81 @@
    "emoji": "🌍",
    "stories": [
     {
-     "headline": "UK and EU agree reset deal",
-     "summary": "Prime Minister Andy Burnham and EU officials agreed a deal covering British food exports, emissions trading and a youth experience scheme. The tuition fees issue remains unresolved, according to No 10. Brussels sources say some of the agreements may not be final.",
-     "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+     "headline": "Ukraine hits Russian warship off Libya",
+     "summary": "Ukraine says sea drones sank the Russian corvette Merkury at Benghazi, Libya, in an early-morning strike on Sunday. Ukraine's security service said seven drones were launched from a mothership, and Zelenskyy praised the operation as exemplary. The Kremlin warned of an \"escalation of tensions in the region\" but declined to comment directly on the Libya attacks.",
+     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "paywalled": false,
      "also": [
       "Al Jazeera",
-      "BBC Business",
       "FT",
-      "Guardian Business",
+      "Guardian World",
       "NPR World"
      ]
     },
     {
-     "headline": "Russian missile hits Poland",
-     "summary": "Poland says a Russian missile struck its territory while Ukraine's allies were holding a military exercise. Nobody was hurt and no damage has been reported, and Warsaw called it a \"provocation\" from Moscow.",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Russia launches large air attack on Kyiv",
-     "summary": "Russia targeted Kyiv crossings days after Ukraine hit the Crimean Bridge. The attack was one of Russia's biggest air strikes yet, and Moscow rejected the prospect of security guarantees for Ukraine.",
-     "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Trump, Xi and Putin summit yields little",
-     "summary": "Trump held a trilateral meeting with Xi Jinping and Vladimir Putin in China and offered little concrete result, beyond a joint statement on unity over some issues. He defended his relationship with Putin at a White House press conference.",
-     "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-     "source": "NPR World",
+     "headline": "Russia warns Estonia and Ukraine",
+     "summary": "Russia has threatened 'hostile' Estonia with 'open war', accusing Tallinn of hostile actions including a border closure and of letting Ukraine launch attacks. Moscow also warned Ukraine of a 'dangerous trend' after the Libya and Baltic attacks on its shipping. The items do not say how Estonia responded.",
+     "link": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
+     "source": "Al Jazeera",
      "paywalled": false,
      "also": [
       "Al Jazeera"
      ]
     },
     {
-     "headline": "Estonia shuts road borders with Russia",
-     "summary": "Estonia has closed its road border crossings after an attack on a drone manufacturer. Russia complained of a \"new Iron Curtain\".",
-     "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
-     "source": "Al Jazeera",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Anthropic lists in record IPO",
-     "summary": "Anthropic raised $81bn in the biggest IPO in history and became one of the world's most valuable public companies. Its shares then fell on the second day of trading, though they stayed above the IPO price.",
-     "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
+     "headline": "Ukraine war reaches NATO territory",
+     "summary": "NPR reports the war is spilling into NATO territory, with attacks on ships, missiles in Poland and fresh allegations of Russian operations inside Denmark. Denmark has previously accused Russia of plotting an assassination. Germany also warned that Russia could place a nuclear weapon in space within 60 days, citing intelligence it is 'taking seriously'.",
+     "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+     "source": "NPR World",
      "paywalled": false,
      "also": [
-      "BBC Tech",
-      "Bloomberg Markets",
-      "MarketWatch"
+      "FT"
+     ]
+    },
+    {
+     "headline": "COP31 climate talks collapse with no deal",
+     "summary": "The longest UN climate summit in history ended in Antalya, Turkey, without a final deal, the first such failure in 17 years. Oil-producing countries' interests, a US boycott and a dispute over finance were cited as reasons. Australia, which co-hosted, blamed 'difficult geopolitical times', and carbon capture and removal emerged as a key divide.",
+     "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": [
+      "Al Jazeera",
+      "BBC Science",
+      "Carbon Brief",
+      "Carbon Herald",
+      "NPR World"
+     ]
+    },
+    {
+     "headline": "Israeli strikes continue in Gaza",
+     "summary": "Israeli strikes killed at least three people in Gaza, including UNRWA employee Adel al-Helou, who was killed on duty on Monday. Gaza continues to see attacks despite an October 2025 ceasefire deal. Oxfam says Israeli attacks have turned Gaza into a 'toxic wasteland', with signs of possible contamination across almost all of the territory.",
+     "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": [
+      "Al Jazeera"
+     ]
+    },
+    {
+     "headline": "Fire at Indonesian confectionery factory",
+     "summary": "At least 24 people have been confirmed dead in a fire at a confectionery factory in Indonesia. About 30 people are still missing, and rescuers are searching unstable structures, with DNA needed to identify victims. Separately, a boat tragedy in Nigeria has prompted a search for survivors, with the government blaming overcrowding, poor maintenance and missing life jackets.",
+     "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+     "source": "Guardian World",
+     "paywalled": false,
+     "also": [
+      "BBC World"
+     ]
+    },
+    {
+     "headline": "Manchester arena evacuated after unknown substance",
+     "summary": "More than 12,000 people were evacuated from Manchester's Co-op Live arena after an 'unknown substance' was released during a Don Toliver concert. Police are investigating, and concertgoers described a horrible smell and screaming, with one person taken to hospital. Don Toliver has postponed his O2 arena show in London as a result.",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+     "source": "Al Jazeera",
+     "paywalled": false,
+     "also": [
+      "BBC Entertainment",
+      "Guardian Culture"
      ]
     }
    ]
@@ -127,59 +146,84 @@
    "emoji": "💷",
    "stories": [
     {
-     "headline": "Global tech and AI sell-off deepens",
-     "summary": "US tech stocks fell sharply as the AI trade unravelled, with the Nasdaq 100 having its worst week since 2020 and the S&P 500 entering a correction. Asian markets recorded their worst week since 2020, and bank stocks had their worst week since April 2025.",
-     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": [
-      "Bloomberg Markets",
-      "FT",
-      "Guardian World"
-     ]
-    },
-    {
-     "headline": "Nvidia shares post longest weekly losing streak since 2008",
-     "summary": "Nvidia stock fell 14% and ended its longest weekly losing streak since the 2008 financial crisis, dropping to third behind Apple and Microsoft. California has subpoenaed the company over whether chip exports reached China, and the SEC is reportedly probing its accounting.",
-     "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-     "source": "CNBC",
+     "headline": "Nvidia's Jensen Huang reinstated as CEO",
+     "summary": "Nvidia reinstated Jensen Huang as chief executive after a surprise return, and its shares rose about 33%, adding around $1tn in value. The Nasdaq was up about 7% and US stocks had their best day since April 2025. Trump said he 'made the deal' and said the administration had assured Nvidia's board Huang would not be a national security threat, while lawmakers vowed to press for public testimony.",
+     "link": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+     "source": "Guardian Business",
      "paywalled": false,
      "also": [
       "BBC Business",
       "Bloomberg Markets",
-      "Guardian World",
-      "MarketWatch"
-     ]
-    },
-    {
-     "headline": "Trump threatens tax on overseas AI data centres",
-     "summary": "Trump threatened a \"tremendous\" tax on US companies building data centres abroad, though he gave little detail. Analysts noted the stock market kept falling after the threat.",
-     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": [
       "CNBC",
       "FT",
       "MarketWatch"
      ]
     },
     {
-     "headline": "UK government borrowing below forecast",
-     "summary": "UK public sector borrowing in October was about £1bn lower than expected, at £17bn, giving a boost to chancellor John Healey. Debt interest costs rose over the month.",
-     "link": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
-     "source": "Guardian Business",
+     "headline": "Capita shares plunge after boss quits",
+     "summary": "Capita shares fell about 70% after chief executive Adolfo Hernandez left with immediate effect. He admitted the company 'has not delivered' for retired civil servants waiting for pension payments, which are overseen by Capita. The scheme's problems have continued since last year.",
+     "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "paywalled": false,
+     "also": [
+      "Guardian Business"
+     ]
+    },
+    {
+     "headline": "Compass plans US listing switch",
+     "summary": "Compass, the £43bn NHS caterer and one of the largest FTSE 100 companies, plans to move its primary listing from London to New York. The decision would be another loss for the London market, following a growing number of firms leaving the UK to list in the US.",
+     "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "paywalled": false,
+     "also": [
+      "Guardian Business"
+     ]
+    },
+    {
+     "headline": "Poundland faces collapse",
+     "summary": "Poundland has days to find a buyer or face administration. The item asks what has gone wrong but the summary available is limited to that deadline.",
+     "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
      "paywalled": false,
      "also": []
     },
     {
-     "headline": "GTA 6 sales top $2.3bn",
-     "summary": "Rockstar Games released Grand Theft Auto VI after a 13-year wait, with estimated sales topping $2.3bn according to one report and $3.8bn according to another. Take-Two's share price has not reflected the launch.",
-     "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
+     "headline": "Energy bills and European gas prices rise",
+     "summary": "European gas prices surged as a forecast cold snap raised fears of a supply shortage this winter, following slower Qatar supplies and depleted summer stocks. Household energy bills are also about to increase in the UK.",
+     "link": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
+     "source": "Guardian Business",
      "paywalled": false,
      "also": [
-      "FT",
-      "MarketWatch"
+      "BBC Business"
+     ]
+    },
+    {
+     "headline": "Brazil's real hits 19-month low",
+     "summary": "Brazil's real fell to a 19-month low as a post-election selloff deepened after President Lula's re-election. Investors have doubts about his commitment to reining in swelling government debt.",
+     "link": "https://www.bloomberg.com/news/articles/2026-11-23/brazil-s-real-weakens-past-6-per-dollar-as-lula-selloff-extends",
+     "source": "Bloomberg Markets",
+     "paywalled": true,
+     "also": []
+    },
+    {
+     "headline": "Anthropic IPO and AI market worries",
+     "summary": "Anthropic raised $81bn in the largest initial public offering on record, with its co-founders now very wealthy. Analysts and investors are increasingly worried about an AI bubble, and Citadel Securities warned that markets are signalling a darkening growth outlook.",
+     "link": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
+     "source": "Guardian Business",
+     "paywalled": false,
+     "also": [
+      "Bloomberg Markets",
+      "Guardian Business"
+     ]
+    },
+    {
+     "headline": "Trump open to capping credit-card rates",
+     "summary": "President Trump said he is open to capping credit-card interest rates, though MarketWatch advises holiday shoppers not to count on it yet. Separately, the Labor Department proposed a rule that could curb ESG funds in 401(k) plans.",
+     "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "paywalled": false,
+     "also": [
+      "CNBC"
      ]
     }
    ]
@@ -190,9 +234,19 @@
    "emoji": "⚽",
    "stories": [
     {
-     "headline": "Villa and Premier League: Chelsea fined £150,000",
-     "summary": "Chelsea were fined £150,000 by the FA for anti-Catholic and anti-Irish chanting during their FA Cup third-round win at Charlton in January. Chelsea's Joao Pedro is again injured and missing for Saturday's match.",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
+     "headline": "Liverpool thrash Man Utd 4-0",
+     "summary": "Liverpool beat Manchester United 4-0 at Anfield, with Rio Ngumoha starring. Leny Yoro was sent off after eight minutes, leaving United with ten men. Mauricio Pochettino's first game as United head coach left them in the relegation zone.",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Premier League",
+     "paywalled": false,
+     "also": [
+      "BBC Premier League"
+     ]
+    },
+    {
+     "headline": "Hull beat Brighton with stoppage-time double",
+     "summary": "Oli McBurnie scored a stoppage-time double as Hull City beat second-placed Brighton 2-1 in the Premier League. Goalkeeper Konstantinos Tzolakis, who had conceded seven for Greece nine days earlier, played a pivotal role. The item does not give the full score.",
+     "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Premier League",
      "paywalled": false,
      "also": [
@@ -201,8 +255,8 @@
     },
     {
      "headline": "England and Australia cricket",
-     "summary": "England return to the MCG for the Australia T20 series, with Aneurin Donald in the T20 squad. Pat Cummins has kept Cricket Australia's backing as Test captain despite the ongoing sandpaper controversy.",
-     "link": "https://www.cricinfo.com/ci/content/story/1563331.html?ex_cid=OTC-RSS",
+     "summary": "Australia's Chaudhary won the first T20 against England, and a last-over finish at the MCG suggested a series of fine margins. England have lost Will Jacks to a series-ending injury. Former South Africa batter AB de Villiers said he has 'no doubt' Australia tampered with the ball in the first Test of the 2018 series.",
+     "link": "https://www.cricinfo.com/ci/content/story/1563642.html?ex_cid=OTC-RSS",
      "source": "ESPNcricinfo",
      "paywalled": false,
      "also": [
@@ -211,27 +265,22 @@
      ]
     },
     {
-     "headline": "Wales beat All Blacks, face Australia",
-     "summary": "Wales beat New Zealand for the first time in 73 years and make four changes for their match against Australia. Stafford McDowall is set to captain Scotland against Japan after Rory Darge's injury.",
-     "link": "https://www.theguardian.com/sport/2026/nov/20/rugby-union-wales-australia-steve-tandy-nations-championship",
-     "source": "Guardian AU Sport",
+     "headline": "Rugby: England, Ireland and Wales",
+     "summary": "England beat New Zealand by a record margin, and England wing Tommy Freeman is in contention for the Nations Championship play-off rematch on Saturday. Ireland beat South Africa, with Andy Farrell saying it 'sets us up nicely' for next year's World Cup. Wales face Japan in their autumn finale after the Wallabies narrowly beat them in Cardiff.",
+     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm5y1qpnp2lpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Rugby Union",
      "paywalled": false,
      "also": [
-      "BBC Rugby Union"
+      "BBC Cricket",
+      "BBC Rugby Union",
+      "BBC Science",
+      "Guardian AU Sport"
      ]
     },
     {
-     "headline": "Alcaraz wins at ATP Finals",
-     "summary": "Carlos Alcaraz beat Flavio Cobolli 6-4, 6-1 in the ATP Finals group stage, making it three straight-sets wins from three.",
-     "link": "https://www.theguardian.com/sport/live/2026/nov/20/carlos-alcaraz-v-flavio-cobolli-atp-finals-tennis-group-stage-live",
-     "source": "Guardian AU Sport",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Charley Hull one shot off lead at LPGA finale",
-     "summary": "England's Charley Hull shot a six-under 66 to sit one stroke behind the first-round leader at the LPGA's season-ending CME Group Tour Championship.",
-     "link": "https://www.bbc.co.uk/sport/golf/articles/cmx20gypx244o?at_medium=RSS&at_campaign=rss",
+     "headline": "Thitikul wins LPGA Tour Championship",
+     "summary": "World number two Jeeno Thitikul shot a seven-under 65 in the final round to win the CME Group Tour Championship for a third successive year.",
+     "link": "https://www.bbc.co.uk/sport/golf/articles/ckjwjvwexd12o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Golf",
      "paywalled": false,
      "also": []
@@ -244,9 +293,9 @@
    "emoji": "🔬",
    "stories": [
     {
-     "headline": "Carbon removal and capture moves forward",
-     "summary": "Canada launched a carbon dioxide removal procurement and listed 19 approved suppliers. Japanese direct air capture startup Planet Savers secured over $10m to scale its zeolite technology.",
-     "link": "https://carbonherald.com/canada-launches-landmark-carbon-removal-procurement-listing-19-approved-suppliers/?utm_source=rss&utm_medium=rss&utm_campaign=canada-launches-landmark-carbon-removal-procurement-listing-19-approved-suppliers",
+     "headline": "Carbon removal divide at COP31",
+     "summary": "Carbon capture and removal, along with climate finance, emerged as fault lines at COP31, which ended without a deal. Carbon Herald also reported that Storegga has exited the Acorn CCS project as EnEarth acquires a 30% stake. The East Coast Cluster has awarded more than £2.25bn in UK supply chain contracts.",
+     "link": "https://carbonherald.com/cop31-without-deal-as-carbon-capture-removal-divide-deepens/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-without-deal-as-carbon-capture-removal-divide-deepens",
      "source": "Carbon Herald",
      "paywalled": false,
      "also": [
@@ -254,9 +303,9 @@
      ]
     },
     {
-     "headline": "EU and UK link carbon markets",
-     "summary": "The EU and UK concluded negotiations to link their Emissions Trading Systems, which Carbon Herald says opens billions in CO2 storage opportunities. Draft COP31 text reportedly drops fossil fuel phaseout language in favour of carbon capture.",
-     "link": "https://carbonherald.com/eu-and-uk-seal-carbon-market-deal-opening-billions-in-co2-storage-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=eu-and-uk-seal-carbon-market-deal-opening-billions-in-co2-storage-opportunities",
+     "headline": "Nigeria biochar and Rwanda agroforestry carbon deals",
+     "summary": "Investment in carbon removal continued, with VP Capital investing in Nigeria-based biochar carbon removal by AirSmat. Removall Carbon also partnered with Green Solutions & Supply on an agroforestry project in Rwanda.",
+     "link": "https://carbonherald.com/vp-capital-invests-in-nigeria-based-biochar-carbon-removal-by-airsmat/?utm_source=rss&utm_medium=rss&utm_campaign=vp-capital-invests-in-nigeria-based-biochar-carbon-removal-by-airsmat",
      "source": "Carbon Herald",
      "paywalled": false,
      "also": [
@@ -264,12 +313,54 @@
      ]
     },
     {
-     "headline": "Dutch watchdog warns against AI smart glasses",
-     "summary": "A Dutch watchdog told people not to buy AI smart glasses after tests showed some misread medicine instructions or pretended to have called an ambulance.",
-     "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+     "headline": "GTA 6 hacker released on licence",
+     "summary": "Arion Kurtaj, now 21, pleaded guilty to the Rockstar Games hack and others he carried out as a teenager. He was released on licence with a warning 'don't let this happen again'.",
+     "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
      "source": "BBC Tech",
      "paywalled": false,
      "also": []
+    }
+   ]
+  },
+  {
+   "key": "culture",
+   "title": "Pop culture & entertainment",
+   "emoji": "🎬",
+   "stories": [
+    {
+     "headline": "Iranian singer flogged for performing without hijab",
+     "summary": "Lawyers say Iranian authorities flogged singer Parastoo Ahmadi, three musicians and a producer, with 74 lashes each reportedly given in Qom. The item does not give any official response.",
+     "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Russell Brand's wife on prison message row",
+     "summary": "Russell Brand's wife said she will honour prison rules after a row over a message from her inmate husband. She said she will stick to the 'parameters' after reading out his message.",
+     "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Entertainment",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Jilly Cooper accused of plagiarism",
+     "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between Jilly Cooper's novel Prudence and works by two contemporaries. The bestselling author, who is late, has been accused of 'extensive and deliberate plagiarism'. The items do not report a response.",
+     "link": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
+     "source": "Guardian Culture",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Music and entertainment news",
+     "summary": "Molly Meldrum, the Australian promoter and broadcaster who helped define Australian music tastes for decades, died aged 83. Miley Cyrus married Maxx Morando in a California ceremony. Steven Spielberg is reportedly making a western scripted by Paul Thomas Anderson.",
+     "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Entertainment",
+     "paywalled": false,
+     "also": [
+      "BBC World",
+      "Guardian Culture"
+     ]
     }
    ]
   },
@@ -279,28 +370,38 @@
    "emoji": "🌱",
    "stories": [
     {
-     "headline": "Kansas teen's stolen equipment replaced",
-     "summary": "After about $20,000 of landscaping machinery was stolen from teen business owner Sonny Gallardo, his community raised money to replace all of it.",
-     "link": "https://www.goodnewsnetwork.org/community-steps-up-to-replace-teen-business-owners-stolen-landscaping-equipment/",
+     "headline": "Walrus habitat protected in Alaska",
+     "summary": "American conservationists have secured permanent protection for barrier islands off Alaska's Bering Sea coast. The area is home to the largest concentrations of Pacific walrus in North America, around 200,000 walrus, near the village of Point Lay.",
+     "link": "https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/",
      "source": "Good News Network",
      "paywalled": false,
      "also": []
     },
     {
-     "headline": "Neighbours raise $109,000 for 87-year-old",
-     "summary": "After one neighbour checked on Carole, an 87-year-old with Parkinson's, strangers and neighbours raised more than $109,000 for her.",
-     "link": "https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/",
+     "headline": "Volunteer finds lost toddler in desert",
+     "summary": "Arizona volunteer Jay Stewart found a missing toddler in the cold desert at night. He was honoured by the sheriff's office as an outstanding citizen.",
+     "link": "https://www.goodnewsnetwork.org/determined-volunteer-rescues-lost-toddler-in-the-desert-she-may-not-be-our-child-but-she-could-be/",
      "source": "Good News Network",
      "paywalled": false,
      "also": []
     },
     {
-     "headline": "Chef cooks weekly for 100 people in need",
-     "summary": "Toronto chef Maddy Goldberg has cooked for 100 people in need every Tuesday for years, using random food bank ingredients.",
-     "link": "https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/",
+     "headline": "Baxdrostat reverses hormone-driven high blood pressure",
+     "summary": "A study of an FDA-approved drug, baxdrostat, showed it reversed high blood pressure caused by hormones, with effects lasting years after treatment. Doctors described the results as extraordinary.",
+     "link": "https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones/",
      "source": "Good News Network",
      "paywalled": false,
      "also": []
+    },
+    {
+     "headline": "India pledges $1.6bn to Nepal",
+     "summary": "India pledged $1.6bn to Nepal to help it rebuild after deadly floods, as Nepal's prime minister Balendra Shah visited New Delhi. The funding comes alongside port access and a new train service.",
+     "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": [
+      "Al Jazeera"
+     ]
     }
    ]
   },
@@ -310,19 +411,21 @@
    "emoji": "📖",
    "stories": [
     {
-     "headline": "Montreal uses ocean sounds against traffic noise",
-     "summary": "A pocket park in Montreal's Verdun borough is using soothing ocean sounds to mask traffic noise from nearby busy roads.",
-     "link": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
-     "source": "Reasons to be Cheerful",
+     "headline": "Blade Runner 2099 and Focker In-Law reviews",
+     "summary": "Guardian critics describe the new Blade Runner 2099 series as baffling, and the fourth Focker film, starring Ariana Grande, as overfamiliar. The contrast reflects how sequels and revivals continue to dominate screens.",
+     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/21/blade-runner-2099-fans-will-have-no-idea-what-is-happening-in-this-sci-fi-sequel-why-is-it-even-on-tv",
+     "source": "Guardian Culture",
      "paywalled": false,
-     "also": []
+     "also": [
+      "Guardian Culture"
+     ]
     }
    ]
   }
  ],
  "feed_failures": [],
  "usage": {
-  "input_tokens": 17114,
-  "output_tokens": 2468
+  "input_tokens": 21289,
+  "output_tokens": 4176
  }
 }
