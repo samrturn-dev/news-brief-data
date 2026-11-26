@@ -1,57 +1,57 @@
 {
- "date": "2026-11-25",
- "reading_minutes": 6,
- "generated_at": "2026-11-25T06:45+00:00",
+ "date": "2026-11-26",
+ "reading_minutes": 4,
+ "generated_at": "2026-11-26T06:45+00:00",
  "markets": [
   {
    "name": "FTSE 100",
-   "value": 10467.1,
-   "change_pct": -0.13
+   "value": 10426.9,
+   "change_pct": -0.38
   },
   {
    "name": "SMI",
-   "value": 14733.89,
-   "change_pct": -0.01
+   "value": 14664.92,
+   "change_pct": -0.47
   },
   {
    "name": "S&P 500",
-   "value": 7201.09,
-   "change_pct": -0.5
+   "value": 7182.78,
+   "change_pct": -0.25
   },
   {
    "name": "VAS",
-   "value": 107.68,
-   "change_pct": -0.45
+   "value": 108.61,
+   "change_pct": 0.86
   },
   {
    "name": "VEU",
-   "value": 115.24,
-   "change_pct": -0.77
+   "value": 115.68,
+   "change_pct": 0.38
   },
   {
    "name": "VGS",
-   "value": 160.73,
-   "change_pct": -0.72
+   "value": 161.38,
+   "change_pct": 0.4
   },
   {
    "name": "GBP/CHF",
-   "value": 1.0943,
-   "change_pct": -0.23
+   "value": 1.0898,
+   "change_pct": -0.52
   },
   {
    "name": "GBP/USD",
-   "value": 1.3079,
-   "change_pct": 0.34
+   "value": 1.31,
+   "change_pct": -0.09
   },
   {
    "name": "Gold",
-   "value": 3520.9,
-   "change_pct": -1.15
+   "value": 3594.5,
+   "change_pct": 1.66
   },
   {
    "name": "Bitcoin",
-   "value": 59089.94,
-   "change_pct": -3.47
+   "value": 60445.03,
+   "change_pct": 1.17
   }
  ],
  "sections": [
@@ -61,34 +61,41 @@
    "emoji": "🌍",
    "stories": [
     {
-     "headline": "Russia's own data show almost 500,000 deaths in Ukraine war",
-     "summary": "Leaked Russian figures put war deaths in Ukraine at almost 500,000, according to BBC World reporting. The data show how the full-scale invasion has changed mortality patterns inside Russia.",
-     "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+     "headline": "US announces new tariffs on 14 trading partners",
+     "summary": "The US has proposed new tariffs on 14 trading partners, including China and the EU, aimed at countering trade practices deemed unfair or burdensome to US commerce. China called the levies 'political manipulation' and baseless, while Brazil said it will not bend to the 'threat'. Proposed rates reported include 18% for Bangladesh, Cambodia and Thailand, and 20% for China and Vietnam, subject to trade deals.",
+     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": [
+      "Al Jazeera",
+      "Bloomberg Markets",
+      "CNBC",
+      "Guardian World"
+     ]
+    },
+    {
+     "headline": "Cairo fuel tanker crash kills at least 31",
+     "summary": "A fuel tanker crash on a ring road surrounding Cairo ignited a huge fire on Wednesday, killing at least 31 people according to Egyptian authorities. At least 21 others were injured, and cars and motorcycles were left charred.",
+     "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": [
+      "Guardian World"
+     ]
+    },
+    {
+     "headline": "Israeli judges urge dropping most serious Netanyahu charges",
+     "summary": "Israeli judges have recommended dropping most of the serious charges against Prime Minister Benjamin Netanyahu, saying there was little chance of conviction in one of three cases. Netanyahu said his trial should end as a result.",
+     "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "paywalled": false,
      "also": []
     },
     {
-     "headline": "Leaked data show over 300 Russians killed supporting Mali's junta",
-     "summary": "A Guardian exclusive based on leaked records lists 349 Russian deaths over three years in Mali. The records also shed light on Russian military activity elsewhere in Africa.",
-     "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+     "headline": "Colombia supermarket siege ends with all hostages freed",
+     "summary": "Colombian police stormed a supermarket in the tourist city of Cartagena, ending a daylong siege in which all hostages were freed. One man described as a hostage-taker was killed, and it is unclear whether he may have been a hostage. President Abelardo de la Espriella was at the scene and later confronted the arrested men.",
+     "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
      "source": "Guardian World",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Colombia's president rushes to supermarket hostage siege",
-     "summary": "Colombian President Abelardo de la Espriella has arrived at an hours-long standoff in a tourist city, where gunmen are holding at least 20 people hostage inside a supermarket. He is taking control of an operation involving scores of security personnel.",
-     "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-     "source": "Guardian World",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Kilmar Ábrego García leaves US for Spain",
-     "summary": "The Salvadoran man, deported in March 2025 and later returned to the US after a Supreme Court ruling, has left the United States of his own volition for Spain. His lawyers confirmed the move, and the Department of Homeland Security confirmed he was travelling. His departure ends a long flashpoint in the debate over President Trump's immigration agenda.",
-     "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
      "paywalled": false,
      "also": [
       "Al Jazeera",
@@ -96,32 +103,28 @@
      ]
     },
     {
-     "headline": "China investigates Shanghai Party chief Chen Jining",
-     "summary": "China has launched an investigation into Chen Jining, Shanghai's Communist Party chief and a member of the elite Politburo, according to Xinhua. He is the fourth Politburo member to be investigated since 2025, and was seen as a contender for higher office.",
-     "link": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
+     "headline": "Six killed in plane crash off Mississippi coast",
+     "summary": "Six people, including children, were killed in a plane crash off the Mississippi coast. US authorities are investigating the cause, and the victims were members of the Stokes and Knox families.",
+     "link": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+     "source": "Al Jazeera",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Sri Lankan asylum seeker dies after UK removal to Eswatini",
+     "summary": "A Sri Lankan asylum seeker, Kishanth Peramalya, was sent by the UK to Eswatini after being denied entry over sexual assault convictions, and killed himself there. He had no connections to the southern African country.",
+     "link": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
      "source": "Guardian World",
      "paywalled": false,
      "also": []
     },
     {
-     "headline": "Huawei convicted of trade secret theft in New York",
-     "summary": "A US jury found Huawei guilty of stealing trade secrets and of bank fraud and money laundering conspiracy, after a months-long trial in New York. The company was acquitted of racketeering charges.",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
+     "headline": "Swiss tourist killed by elephants in Cameroon",
+     "summary": "A Swiss tourist was killed and British and American tourists were injured when a hiking group encountered a herd of elephants near Mount Cameroon national park. The victim was reportedly London-based insurance executive Alain Throo, and the group had six tourists.",
+     "link": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+     "source": "Guardian World",
      "paywalled": false,
-     "also": [
-      "CNBC"
-     ]
-    },
-    {
-     "headline": "Israeli strike kills Hamas internal security chief in Gaza",
-     "summary": "An Israeli air strike killed Naeem Abu Nahel, Hamas's internal security chief, who had held the post for two months. He is among seven Palestinians reportedly killed in Israeli strikes on Tuesday, and a separate strike on an apartment building in Shati camp killed at least four people.",
-     "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": [
-      "Al Jazeera"
-     ]
+     "also": []
     }
    ]
   },
@@ -131,32 +134,10 @@
    "emoji": "💷",
    "stories": [
     {
-     "headline": "Asian markets fall as AI boom doubts return",
-     "summary": "Stocks fell sharply in Japan, South Korea and Taiwan in a tech-led sell-off. SoftBank dropped 15% as renewed concerns over the AI trade hit Asian tech names, particularly Japanese semiconductor stocks.",
-     "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
-     "source": "Al Jazeera",
-     "paywalled": false,
-     "also": [
-      "CNBC",
-      "FT"
-     ]
-    },
-    {
-     "headline": "Nvidia shares fall as Huang row deepens",
-     "summary": "Nvidia's share price fell around 7% as lawmakers demanded answers about President Trump's role in reinstating CEO Jensen Huang. The US attorney general dodged questions on an investigation into the company. Trump said he 'convinced' the board, and reports say he made up to $15m on his Nvidia holdings.",
-     "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+     "headline": "US stocks fall as AI fears intensify",
+     "summary": "US stocks fell further in early trading as fears over AI intensified, with all three main indexes down and the tech-dominated Nasdaq down almost 4%. Later reports said the AI trade was rebounding ahead of Thanksgiving after a week of whipsawing.",
+     "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "paywalled": false,
-     "also": [
-      "BBC Business",
-      "Guardian Business"
-     ]
-    },
-    {
-     "headline": "Trump readies new tariffs on major trading partners",
-     "summary": "The US is preparing to unveil new tariffs on global trading partners, including China, the EU, Japan and South Korea. The levies would hit many of America's biggest trading partners.",
-     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
      "paywalled": false,
      "also": [
       "Bloomberg Markets",
@@ -164,23 +145,55 @@
      ]
     },
     {
-     "headline": "Compass to move main listing from London to New York",
-     "summary": "Compass Group, the world's largest catering group, confirmed plans to move its main listing to the US, saying it had become a predominantly North American business. The move is a blow to the London Stock Exchange.",
-     "link": "https://www.theguardian.com/business/2026/nov/24/nhs-caterer-compass-london-listing-new-york-us-ftse-100",
-     "source": "Guardian Business",
+     "headline": "Poundland collapses into administration",
+     "summary": "Poundland has fallen into administration after its owners failed to find a buyer, putting between 10,000 and 11,000 jobs at risk. The budget chain is expected to be broken up, with store closures, after its US owner rejected at least two last-ditch bids.",
+     "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "paywalled": false,
+     "also": [
+      "BBC Business",
+      "Guardian Business"
+     ]
+    },
+    {
+     "headline": "Energy bills to rise 26% from January",
+     "summary": "Ofgem's energy price cap is rising, lifting a typical household's annual bill from £1,723 to £2,166 if sustained for a year, after gas prices surged. The Bank of England has said UK food inflation could reach 5% next year, partly due to the energy price cap rise.",
+     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "paywalled": false,
+     "also": [
+      "BBC Business",
+      "Guardian Business"
+     ]
+    },
+    {
+     "headline": "Nvidia faces rating warning and export halt",
+     "summary": "S&P Global Ratings warned Nvidia's credit rating could be cut by one notch over 'rising' management and governance risk. Nvidia has also halted chip shipments to south-east Asia as the US steps up export controls to stop Chinese access to AI computing power.",
+     "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+     "source": "CNBC",
+     "paywalled": false,
+     "also": [
+      "FT"
+     ]
+    },
+    {
+     "headline": "US approves SpaceX plan for a million data satellites",
+     "summary": "US regulators approved a plan from SpaceX for a constellation of up to a million satellites to act as orbital data centres, known as Starmind. Deployment of 100,000 is required no later than November 2035, according to the FCC approval.",
+     "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
      "paywalled": false,
      "also": [
       "Guardian Business"
      ]
     },
     {
-     "headline": "Energy price cap to rise in January",
-     "summary": "Ofgem's new energy price cap will push up domestic gas prices significantly from January. Households are bracing for higher bills, though millions are due a £100 energy payment from January.",
-     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
+     "headline": "South Korea central bank raises rates",
+     "summary": "The Bank of Korea raised its key rate by 0.25 percentage points to 3.25%, resuming increases after a pause in October. It also raised its GDP growth forecast, amid booming exports of AI chips.",
+     "link": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
+     "source": "Al Jazeera",
      "paywalled": false,
      "also": [
-      "BBC Business"
+      "Bloomberg Markets"
      ]
     }
    ]
@@ -191,29 +204,19 @@
    "emoji": "⚽",
    "stories": [
     {
-     "headline": "Yoro red card overturned ahead of Brentford game",
-     "summary": "Manchester United defender Leny Yoro's red card at Anfield was overturned, so he is clear to face Brentford on Saturday. Referees' chief Howard Webb backed the original decision, while Mauricio Pochettino and United were furious over how VAR handled it.",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Premier League",
+     "headline": "Aston Villa lose to Galatasaray in Champions League",
+     "summary": "Aston Villa were beaten by a late Deniz Gul winner for Galatasaray, their second successive Champions League defeat. A Villa fan described it as a learning curve.",
+     "link": "https://www.bbc.co.uk/sport/football/videos/c6r7g92p5k79o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Aston Villa",
      "paywalled": false,
      "also": [
-      "BBC Premier League"
+      "BBC Aston Villa"
      ]
     },
     {
-     "headline": "England level T20 series with Australia at Carrara",
-     "summary": "Aneurin Donald and Phil Salt put on 150 in 10 overs, helping England chase 184 against Australia and level the T20 series. Donald's stunning onslaught was the highlight of the chase.",
-     "link": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Cricket",
-     "paywalled": false,
-     "also": [
-      "ESPNcricinfo"
-     ]
-    },
-    {
-     "headline": "Arsenal held by Dortmund, Man City drawn with Napoli",
-     "summary": "Arsenal were held to a 2-2 style draw by Borussia Dortmund after leading at half-time, with Gyökeres's thunderbolt followed by Beier's equaliser. Manchester City also drew with Napoli, with Rayan Cherki's goal denying them a win in a laboured performance.",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
+     "headline": "Man Utd and Sporting draw 2-2 in chaotic game",
+     "summary": "Manchester United drew 2-2 with Sporting in Lisbon in an incident-packed Champions League match. Goalkeeper Senne Lammens made errors, and Mauricio Pochettino said United were punished by officials' decisions.",
+     "link": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
      "source": "BBC Champions League",
      "paywalled": false,
      "also": [
@@ -222,9 +225,40 @@
      ]
     },
     {
-     "headline": "Ireland's Dan Sheehan banned for two games",
-     "summary": "Ireland's stand-in captain Dan Sheehan received a two-game ban for a croc-roll tackle against South Africa. He will miss Ireland's match against Australia on Friday night. Ireland beat back-to-back world champions South Africa in a narrow victory.",
-     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c32l5kp7evkxo?at_medium=RSS&at_campaign=rss",
+     "headline": "Liverpool beat Club Brugge with Isak double",
+     "summary": "Liverpool beat Club Brugge with goals from Alexander Isak, who scored twice, and Florian Wirtz. Isak's two goals take his season tally to 10.",
+     "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Champions League",
+     "paywalled": false,
+     "also": [
+      "BBC Champions League",
+      "Guardian AU Sport"
+     ]
+    },
+    {
+     "headline": "Barcelona beat Sabah 4-1; Bayern lose to Lille",
+     "summary": "Barcelona beat Sabah 4-1 with Anthony Gordon scoring twice. Bayern Munich suffered their first Champions League defeat, losing to Lille after a Aleksander Pavlovic own goal among two late goals in three minutes.",
+     "link": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Champions League",
+     "paywalled": false,
+     "also": [
+      "BBC Champions League"
+     ]
+    },
+    {
+     "headline": "Roma hold PSG; Inter beat Stuttgart",
+     "summary": "Roma drew 0-0 with... ",
+     "link": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Champions League",
+     "paywalled": false,
+     "also": [
+      "BBC Champions League"
+     ]
+    },
+    {
+     "headline": "England face All Blacks with five changes",
+     "summary": "England made five changes for their rematch with New Zealand on Saturday, with Exeter back row Greg Fisilau making his first start. Fin Smith has become one of England's most prolific ball carriers.",
+     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv8e04gj2wwwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Rugby Union",
      "paywalled": false,
      "also": [
@@ -232,154 +266,31 @@
      ]
     },
     {
-     "headline": "Ollie Robinson leaves Sussex for Nottinghamshire",
-     "summary": "England seamer Ollie Robinson is leaving Sussex after 11 or 12 seasons to join Nottinghamshire on a three-year deal. The move came with an undisclosed compensation package.",
-     "link": "https://www.bbc.co.uk/sport/cricket/articles/cqx2er23p25jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Cricket",
+     "headline": "Australia v Ireland in Nations Championship",
+     "summary": "Kurtley Beale, 37, was named on the Wallabies bench for the season-ending Nations Championship clash with Ireland, ending a five-year exile, while Allan Alaalatoa joins the 100 club. Ireland's Jacob Stockdale returns for the Friday fifth-place play-off against Australia.",
+     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cx62p86g7vjgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Rugby Union",
+     "paywalled": false,
+     "also": [
+      "Guardian AU Sport"
+     ]
+    },
+    {
+     "headline": "Cricket: Clayton and Handscomb feature in Sheffield Shield",
+     "summary": "In Australian domestic cricket, Swepson took 11 wickets as New South Wales held on against Queensland, who had been left a target of 282. Victoria took control through Handscomb and Macdonald after South Africa's... ",
+     "link": "https://www.cricinfo.com/ci/content/story/1563880.html?ex_cid=OTC-RSS",
+     "source": "ESPNcricinfo",
      "paywalled": false,
      "also": [
       "ESPNcricinfo"
      ]
     }
    ]
-  },
-  {
-   "key": "science",
-   "title": "Science, tech & climate",
-   "emoji": "🔬",
-   "stories": [
-    {
-     "headline": "Pakistan's first astronaut launches on Chinese rocket",
-     "summary": "Pakistani former fighter pilot Muhammad Zeeshan Ali launched into space aboard China's Shenzhou-24. He is the first foreigner to join a Chinese crewed space mission.",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
-     "source": "Al Jazeera",
-     "paywalled": false,
-     "also": [
-      "BBC Science"
-     ]
-    },
-    {
-     "headline": "Record heat-linked deaths estimated in England",
-     "summary": "The UK Health Security Agency estimates 5,200 heat-linked deaths in England this year, twice the previous record year. The figure is a stark measure of heat's health toll.",
-     "link": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Science",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Carbon removal projects advance after COP31",
-     "summary": "Carbon Herald reported CO2-storing concrete deployed at the Port of Rotterdam, and a new report on the state of direct air carbon capture and storage (DACCS). A Carbon Capture Coalition package also went to the US EPA with Class VI permitting reform proposals. COP31 in Antalya ended without an agreed 'pact' on climate action.",
-     "link": "https://carbonherald.com/bam-albeton-paebbl-deploy-co2-storing-concrete-at-port-of-rotterdam/?utm_source=rss&utm_medium=rss&utm_campaign=bam-albeton-paebbl-deploy-co2-storing-concrete-at-port-of-rotterdam",
-     "source": "Carbon Herald",
-     "paywalled": false,
-     "also": [
-      "Carbon Brief",
-      "Carbon Herald"
-     ]
-    }
-   ]
-  },
-  {
-   "key": "culture",
-   "title": "Pop culture & entertainment",
-   "emoji": "🎬",
-   "stories": [
-    {
-     "headline": "Thomas Markle charged with possessing child abuse images",
-     "summary": "Thomas Markle, father of Meghan, has been charged in the US with possessing child sexual abuse images. The FBI arrested him on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the material.",
-     "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Nigella Lawson helps crown new Bake Off champion",
-     "summary": "A new Great British Bake Off winner was crowned after a high-stakes final, with Nigella Lawson describing the three finalists as sensational. Guardian coverage says viewing figures are up since her arrival as judge.",
-     "link": "https://www.bbc.co.uk/news/articles/cm894exd27j2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Entertainment",
-     "paywalled": false,
-     "also": [
-      "Guardian Culture"
-     ]
-    },
-    {
-     "headline": "First Children's Booker Prize shortlist announced",
-     "summary": "The inaugural Children's Booker Prize shortlist has been revealed, with eight titles including works by Eoin Colfer, Shaun Tan and Liz Hyder. The award carries £50,000 and has child judges.",
-     "link": "https://www.bbc.co.uk/news/articles/c65y18gl23gko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Entertainment",
-     "paywalled": false,
-     "also": [
-      "Guardian Culture"
-     ]
-    },
-    {
-     "headline": "Bros announce first tour in a decade",
-     "summary": "Pop duo Bros will tour in 2027, with ten dates including Wembley Arena. The twins from Camberley are returning to live performance after a decade.",
-     "link": "https://www.bbc.co.uk/news/articles/cklylrldzqm4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Entertainment",
-     "paywalled": false,
-     "also": []
-    }
-   ]
-  },
-  {
-   "key": "good",
-   "title": "Good news",
-   "emoji": "🌱",
-   "stories": [
-    {
-     "headline": "Wolbachia mosquitoes cut viral infections by 68% in Brazil",
-     "summary": "A large Brazilian trial that released Wolbachia-infected mosquitoes cut viral infections by 68%, with schoolchildren enjoying a lower risk of such diseases. The method uses bacteria that inhibit the insects' ability to transmit viruses.",
-     "link": "https://www.goodnewsnetwork.org/major-success-sees-viral-infections-fall-68-in-brazil-after-releasing-wolbachia-infected-mosquitoes/",
-     "source": "Good News Network",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Thanksgiving Heroes to serve thousands of families",
-     "summary": "The Thanksgiving Heroes effort, which began with an 11-year-old's promise to his mother, will feed 3,600 families in Utah alone this year. The initiative aims to bring holiday meals to those in need nationwide.",
-     "link": "https://www.goodnewsnetwork.org/thanksgiving-heroes-rob-adams-childhood-promise/",
-     "source": "Good News Network",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Micronesian school accepts coconuts for tuition",
-     "summary": "Faith Christian Academy in Micronesia accepts coconuts in lieu of tuition fees, easing the financial burden on families. The scheme helps every islander afford school.",
-     "link": "https://www.goodnewsnetwork.org/charity-swaps-tuition-fees-for-coconuts-so-every-islander-can-afford-school/",
-     "source": "Good News Network",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Retired teacher's bird cafe made from old instruments",
-     "summary": "A retired teacher in Prince Edward Island, Canada, turns scrapped musical instruments into bird feeders at his Frets and Feathers Cafe, offering free food to birds.",
-     "link": "https://www.goodnewsnetwork.org/retired-teacher-turns-retired-musical-instruments-into-bird-feeders-look/",
-     "source": "Good News Network",
-     "paywalled": false,
-     "also": []
-    }
-   ]
-  },
-  {
-   "key": "interesting",
-   "title": "One interesting read",
-   "emoji": "📖",
-   "stories": [
-    {
-     "headline": "Asteroid mission returns to assess crash damage",
-     "summary": "Four years after a spacecraft deliberately knocked an asteroid off course, another spacecraft has returned to study the damage. The mission is examining the asteroid's changed path.",
-     "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": []
-    }
-   ]
   }
  ],
  "feed_failures": [],
  "usage": {
-  "input_tokens": 19710,
-  "output_tokens": 3436
+  "input_tokens": 22170,
+  "output_tokens": 2540
  }
 }
