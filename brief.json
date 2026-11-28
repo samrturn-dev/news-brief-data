@@ -1,22 +1,22 @@
 {
- "date": "2026-11-27",
- "reading_minutes": 6,
- "generated_at": "2026-11-27T06:45+00:00",
+ "date": "2026-11-28",
+ "reading_minutes": 5,
+ "generated_at": "2026-11-28T06:45+00:00",
  "markets": [
   {
    "name": "FTSE 100",
-   "value": 10609.3,
-   "change_pct": 1.75
+   "value": 10698.8,
+   "change_pct": 0.84
   },
   {
    "name": "SMI",
-   "value": 14817.68,
-   "change_pct": 1.04
+   "value": 14879.97,
+   "change_pct": 0.42
   },
   {
    "name": "S&P 500",
-   "value": 7182.78,
-   "change_pct": -0.25
+   "value": 7297.49,
+   "change_pct": 1.6
   },
   {
    "name": "VAS",
@@ -35,23 +35,23 @@
   },
   {
    "name": "GBP/CHF",
-   "value": 1.0945,
-   "change_pct": 0.44
+   "value": 1.0947,
+   "change_pct": 0.09
   },
   {
    "name": "GBP/USD",
-   "value": 1.3122,
-   "change_pct": 0.07
+   "value": 1.3107,
+   "change_pct": -0.04
   },
   {
    "name": "Gold",
-   "value": 3678.9,
-   "change_pct": 4.05
+   "value": 3639.6,
+   "change_pct": 2.94
   },
   {
    "name": "Bitcoin",
-   "value": 61633.7,
-   "change_pct": 2.08
+   "value": 59812.03,
+   "change_pct": -1.13
   }
  ],
  "sections": [
@@ -61,71 +61,70 @@
    "emoji": "🌍",
    "stories": [
     {
-     "headline": "Zelensky says US focus is too much on Middle East",
-     "summary": "Ukraine's president told the BBC the US is too focused on the Middle East and not pressing Russia hard enough. He called it \"strange\" that Trump has described Vladimir Putin as a friend. Separately, Trump said he had urged Putin to 'pull back' military aggression in Europe, as Zelenskyy warned of a major Russian attack.",
+     "headline": "Spain votes in snap election",
+     "summary": "Prime Minister Pedro Sánchez held a final rally urging supporters to turn out, hoping to defy the polls, while his main rivals accused him of not telling the truth and of \"betrayal\". The election could end his eight years in power, according to CNBC. The Financial Times describes his tenure as possibly ending over anger about migration and housing.",
+     "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": [
+      "Bloomberg Markets",
+      "CNBC",
+      "FT"
+     ]
+    },
+    {
+     "headline": "Quebec religious symbols ban largely upheld",
+     "summary": "Canada's top court largely upheld Quebec's law barring public servants from wearing religious symbols. The law was challenged by groups including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights. The Guardian describes the ruling as exposing tensions between minority rights and government power.",
+     "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": [
+      "Guardian World"
+     ]
+    },
+    {
+     "headline": "Peru helicopter crash kills eight",
+     "summary": "Eight people died when a Peruvian military helicopter crashed during a rescue mission in a remote area known for drug trafficking. The pilot was the sole survivor.",
+     "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Kenyan cult leader convicted of further killings",
+     "summary": "Paul Mackenzie was found guilty of killing 123 more followers, weeks after being jailed for the mass murder of children. The convictions relate to his doomsday cult.",
+     "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Zelensky criticises Trump-Putin relationship",
+     "summary": "Ukraine's president described the Trump-Putin friendship as \"strange\" in a BBC interview. He said the US is not pushing Russia hard enough in peace talks to end the war.",
      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Taiwan holds local elections",
+     "summary": "Taiwanese voters went to the polls in local elections seen as a test for the ruling Democratic Progressive Party. Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, is closely watched. Officials have raised alarm over Chinese interference.",
+     "link": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+     "source": "Guardian World",
      "paywalled": false,
      "also": [
       "Al Jazeera"
      ]
     },
     {
-     "headline": "Thanksgiving storms cause outages and flight delays across US",
-     "summary": "Almost one million US customers had no power on Thursday evening as storms hit both coasts with wind gusts, heavy rain and flooding. Roofs were torn off and streets flooded, with hundreds of thousands affected as the holiday weekend began. Flight delays were reported and coastal flooding was a concern.",
-     "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
+     "headline": "Israeli strike hits MSF Gaza clinic",
+     "summary": "An Israeli strike on a Doctors Without Borders clinic in Gaza killed two staff, described by MSF as a 'direct hit'. MSF has called for those responsible to be held accountable.",
+     "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+     "source": "Al Jazeera",
      "paywalled": false,
      "also": [
-      "Al Jazeera",
-      "BBC World",
-      "NPR World"
+      "Al Jazeera"
      ]
-    },
-    {
-     "headline": "New Zealand coalition loses majority; Opportunity Party holds key role",
-     "summary": "Final results show Christopher Luxon's right-leaning coalition, led by the National Party, is one seat short of a majority. It now needs the support of the centrist newcomer Opportunity Party to govern, or the country faces another election. The Opportunity Party is now positioned to swing the next parliament left or right.",
-     "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": [
-      "Al Jazeera",
-      "Guardian World"
-     ]
-    },
-    {
-     "headline": "Two Italians killed in Kuwait strike; Iran denies responsibility",
-     "summary": "Two Italians, technicians for German company Rheinmetall according to Italy's foreign ministry, were killed in a strike in Kuwait. Iran denies responsibility, and Iran's foreign minister Abbas Araghchi called the incident \"suspicious\". Trump said the Iran war ends \"whenever I want it\".",
-     "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": [
-      "CNBC"
-     ]
-    },
-    {
-     "headline": "Congo Ebola outbreak passes 12,000 cases",
-     "summary": "The Ebola outbreak in eastern Congo has reached 12,000 cases and continues to spread quickly. Fighting between rebels and the army is disrupting containment efforts, and some responders have been evacuated.",
-     "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
-     "source": "NPR World",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "North Korea's Kim vows more nuclear weapons",
-     "summary": "Kim Jong Un reportedly visited facilities producing nuclear ingredients and called for building more nuclear weapons. He made the call after ignoring a Trump overture, citing threats from the US and South Korea.",
-     "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-     "source": "NPR World",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Egyptian motorist arrested over tanker crash that killed 31",
-     "summary": "Egyptian authorities arrested a motorist over a tanker crash that killed 31 people. Officials say he confessed to speeding and clipping the fuel truck while overtaking.",
-     "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": []
     }
    ]
   },
@@ -135,67 +134,56 @@
    "emoji": "💷",
    "stories": [
     {
-     "headline": "Mortgage payments set to rise for hundreds of thousands",
-     "summary": "The Bank of England warns that more than 400,000 UK homeowners will face a rise of £500 or more a month in mortgage payments over the next three years as they come off fixed deals. Another report says millions will see average monthly payments rise by £100.",
-     "link": "https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
+     "headline": "Norse Atlantic Airways goes bankrupt",
+     "summary": "Norwegian budget airline Norse Atlantic filed for bankruptcy and cancelled all future flights after failing to secure funding. Soaring fuel costs linked to the Iran war strained its finances. It told customers not to come to airports.",
+     "link": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
      "source": "Guardian Business",
      "paywalled": false,
      "also": [
-      "BBC Business"
+      "CNBC"
      ]
     },
     {
-     "headline": "Altria considers takeover bid for Imperial Brands",
-     "summary": "US tobacco group Altria has announced it is considering a possible takeover bid for UK firm Imperial Brands. Imperial shares jumped more than 14% on the news. Imperial could become the next UK company to fall to a foreign takeover.",
-     "link": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
-     "source": "Guardian Business",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Pablo Hernández de Cos chosen as next ECB president",
-     "summary": "Former Bank of Spain governor Pablo Hernández de Cos has been chosen to succeed Christine Lagarde at the European Central Bank. He won support from the EU's biggest countries.",
-     "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
-     "source": "Guardian Business",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Tech stocks and Nvidia drive volatile markets",
-     "summary": "Tech stocks were set for their worst month in four years as volatility surged, according to the FT. Asian markets rallied after the tech rout, and Chinese shares soared after Beijing signalled more support. Jensen Huang's return as Nvidia CEO brought some relief to the AI trade.",
-     "link": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
-     "source": "Al Jazeera",
+     "headline": "Chinese stocks post biggest one-day gains",
+     "summary": "Chinese chip stocks had their biggest ever one-day gains after a rare midday state media statement pledged market liquidity support. Bloomberg reports the rally was the biggest stock gain since 2024.",
+     "link": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+     "source": "CNBC",
      "paywalled": false,
      "also": [
-      "BBC Business",
-      "Bloomberg Markets",
+      "Bloomberg Markets"
+     ]
+    },
+    {
+     "headline": "Poundland enters administration",
+     "summary": "Poundland has gone into administration, leaving staff fearful about Christmas and facing closures and job losses. The Guardian reports 2,000 suppliers will take a big hit.",
+     "link": "https://www.theguardian.com/business/2026/nov/27/poundland-staff-administration-closures-job-losses-suppliers",
+     "source": "Guardian Business",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "S&P cuts France outlook and Wall Street correction",
+     "summary": "S&P cut France's outlook to negative, citing political instability that will make it harder to tackle the public deficit. Separately, CNBC reports the S&P 500 has entered a correction after a November sell-off, though corrections do not always lead to bear markets.",
+     "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+     "source": "CNBC",
+     "paywalled": false,
+     "also": [
       "FT"
      ]
     },
     {
-     "headline": "Poundland's collapse and owner blame",
-     "summary": "Poundland's management and MPs blame its owners Gordon Brothers, but the US firm says the chain would have collapsed last year without them. Staff fear being left without work before Christmas. Travelodge has appointed a new chief executive from 1 December.",
-     "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
-     "paywalled": false,
-     "also": [
-      "BBC Business",
-      "Guardian Business"
-     ]
-    },
-    {
-     "headline": "Norse Atlantic suspends all flights",
-     "summary": "Norse Atlantic has suspended all flights as it faces potential collapse. The carrier is seeking urgent funding and will file for bankruptcy without a financial lifeline.",
-     "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
+     "headline": "Dangote Refinery plans blockbuster IPO",
+     "summary": "Africa's richest man is taking his Dangote Refinery public, with an IPO that could value the company at about $47 billion. It is expected to be Africa's biggest stock market listing.",
+     "link": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+     "source": "CNBC",
      "paywalled": false,
      "also": []
     },
     {
-     "headline": "US GDP revision prompts Trump probe demand",
-     "summary": "Trump demanded an investigation into a 'record setting error' after third-quarter GDP data was revised sharply higher. He said the revision should be \"immediately investigated\".",
-     "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-     "source": "CNBC",
+     "headline": "Banks may pass on £1.5bn tax rise",
+     "summary": "Bank of England governor Andrew Bailey warned banks could try to pass on the £1.5bn cost of a temporary corporation tax surcharge to customers. He said lenders will aim to protect their earnings.",
+     "link": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+     "source": "Guardian Business",
      "paywalled": false,
      "also": []
     }
@@ -207,62 +195,62 @@
    "emoji": "⚽",
    "stories": [
     {
-     "headline": "Aston Villa: Garnacho's career looks stalled",
-     "summary": "Alejandro Garnacho's brief Aston Villa career already looks over, as he did not make a 12-man bench. Villa lost to Galatasaray in the Champions League earlier this week.",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
+     "headline": "Forest beat Chelsea 3-2",
+     "summary": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2, their first win over them at the City Ground since 1997. Igor Jesus also scored a stunning volley. Chelsea lost their third Premier League game in a row, and Wesley Fofana was booed by his own fans after a controversial interview.",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Premier League",
+     "paywalled": false,
+     "also": [
+      "BBC Premier League",
+      "Guardian AU Sport"
+     ]
+    },
+    {
+     "headline": "England beat Australia in third T20",
+     "summary": "England beat Australia by seven wickets in the third T20 at The Gabba, taking the series lead. Overton took five wickets in a fiery spell that helped England flip the Gabba script.",
+     "link": "https://www.bbc.co.uk/sport/cricket/articles/cm9d704g26z4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Cricket",
+     "paywalled": false,
+     "also": [
+      "Guardian AU Sport"
+     ]
+    },
+    {
+     "headline": "Ireland beat Australia 38-14 in rugby",
+     "summary": "Ireland beat Australia 38-14 in London, with five tries, to finish fifth in the inaugural Nations Championship. McNabney scored a late double.",
+     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw987l0ej11mo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Rugby Union",
+     "paywalled": false,
+     "also": [
+      "Guardian AU Sport"
+     ]
+    },
+    {
+     "headline": "Aston Villa: Emery on Garnacho",
+     "summary": "Aston Villa boss Unai Emery praised Alejandro Garnacho's \"fantastic attitude\" but suggested other players rank ahead of him for selection.",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Aston Villa",
      "paywalled": false,
      "also": []
     },
     {
-     "headline": "Man Utd and Sporting draw 2-2; Lammens under scrutiny",
-     "summary": "Manchester United drew 2-2 with Sporting in the Champions League. Goalkeeper Senne Lammens made two major mistakes and is under scrutiny ahead of the weekend.",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Premier League",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Pant plays club match in New Zealand under false name",
-     "summary": "India wicketkeeper Rishabh Pant joined a club game in Christchurch under the false name 'Stan Stan' before the second Test. He scored 54 off 21 balls.",
-     "link": "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan?traffic_source=rss",
-     "source": "Al Jazeera",
-     "paywalled": false,
-     "also": [
-      "BBC Cricket"
-     ]
-    },
-    {
-     "headline": "Lyon set to be dropped for first New Zealand Test",
-     "summary": "Nathan Lyon is set to be axed from Australia's squad for the first Test against New Zealand in Perth. The 39-year-old's omission raises questions over his red-ball future.",
-     "link": "https://www.cricinfo.com/ci/content/story/1564361.html?ex_cid=OTC-RSS",
-     "source": "ESPNcricinfo",
-     "paywalled": false,
-     "also": [
-      "Guardian AU Sport"
-     ]
-    },
-    {
-     "headline": "Cricket Australia widens sandpapergate probe",
-     "summary": "Cricket Australia's independent forum into sandpapergate will include the 2017-18 Ashes series against England. The forum will be confidential and led by Fiona McLeod, with no sanctions and no recrimination.",
-     "link": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
+     "headline": "Lyon left out of Australia squad",
+     "summary": "Australia have dropped off-spinner Nathan Lyon for the first Test against New Zealand in Perth, starting 9 December. Australia's chair of selectors said he expects Lyon to tour India, but Lyon is considering his future.",
+     "link": "https://www.bbc.co.uk/sport/cricket/articles/ckjre1p5g4l7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Cricket",
      "paywalled": false,
      "also": [
-      "BBC Cricket",
       "ESPNcricinfo",
       "Guardian AU Sport"
      ]
     },
     {
-     "headline": "Faldo urges LIV stars to pay unpaid firms; Lee opens with 68",
-     "summary": "Six-time major winner Nick Faldo urged LIV Golf stars who benefited financially to help small businesses still owed money. Min Woo Lee shot a four-under 68 in the first round of the Australian PGA Championship despite missing his eight-iron.",
-     "link": "https://www.bbc.co.uk/sport/golf/articles/ckq6emzlegjyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Golf",
+     "headline": "Rodgers texts into broadcast after Steelers win",
+     "summary": "Pittsburgh Steelers beat Denver Broncos 27-5. Aaron Rodgers was released after a rift with head coach Mike McCarthy and texted into an Amazon broadcast to defend himself.",
+     "link": "https://www.theguardian.com/sport/2026/nov/27/aaron-rodgers-texts-into-amazon-broadcast-to-defend-himself-as-steelers-beat-broncos",
+     "source": "Guardian AU Sport",
      "paywalled": false,
-     "also": [
-      "BBC Golf"
-     ]
+     "also": []
     }
    ]
   },
@@ -272,30 +260,34 @@
    "emoji": "🔬",
    "stories": [
     {
-     "headline": "Lenacapavir HIV prevention jab reaches Africa",
-     "summary": "A cheaper HIV prevention jab, lenacapavir, has reached Africa. It is given as an injection twice a year and is nearly 100% effective at preventing HIV infection.",
-     "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Musk's million-satellite plan approved",
-     "summary": "US approval has been given for SpaceX's plan to send a million data satellites into space, called the Starmind constellation. It aims to be the most cost and energy-efficient way to meet growing demand for AI computing power.",
-     "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+     "headline": "Thanksgiving storms leave hundreds of thousands without power",
+     "summary": "Severe weather on both US coasts during Thanksgiving left hundreds of thousands without power, with the Macy's parade postponed. Trees fell and roads flooded, and the clean-up continues.",
+     "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Science",
      "paywalled": false,
-     "also": []
+     "also": [
+      "Al Jazeera",
+      "BBC Science",
+      "BBC World"
+     ]
     },
     {
-     "headline": "UK cement and lime industry calls for carbon capture support",
-     "summary": "UK cement and lime producers have joined major trade unions and parliamentarians in calling on the government for carbon capture support. Separately, ARK Capture Solutions raised more than €5.4 million in seed funding to scale all-electric carbon capture.",
-     "link": "https://carbonherald.com/uk-cement-and-lime-industry-calls-on-government-for-carbon-capture-support/?utm_source=rss&utm_medium=rss&utm_campaign=uk-cement-and-lime-industry-calls-on-government-for-carbon-capture-support",
-     "source": "Carbon Herald",
+     "headline": "African megacities sinking faster than thought",
+     "summary": "New satellite data shows cities including Lagos and Alexandria are sinking faster than previously thought. A study says sinking land and rising seas could expose more than seven million people in Africa's coastal megacities to flooding by 2050.",
+     "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Science",
      "paywalled": false,
      "also": [
-      "Carbon Herald"
+      "Carbon Brief"
      ]
+    },
+    {
+     "headline": "CF Industries to buy Mosaic ammonia complex",
+     "summary": "CF Industries agreed to acquire Mosaic's Faustina ammonia complex in a $600m deal.",
+     "link": "https://carbonherald.com/cf-industries-to-acquire-mosaics-faustina-ammonia-complex-in-600m-deal/?utm_source=rss&utm_medium=rss&utm_campaign=cf-industries-to-acquire-mosaics-faustina-ammonia-complex-in-600m-deal",
+     "source": "Carbon Herald",
+     "paywalled": false,
+     "also": []
     }
    ]
   },
@@ -305,38 +297,36 @@
    "emoji": "🎬",
    "stories": [
     {
-     "headline": "Depardieu to stand trial for alleged rape",
-     "summary": "Gérard Depardieu has been ordered to stand trial in Paris for the alleged rape of actress Charlotte Arnould in 2018, after an appeals court rejected his attempt to avoid it. Arnould first made the accusation in 2018.",
-     "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "paywalled": false,
-     "also": [
-      "Guardian Culture"
-     ]
-    },
-    {
-     "headline": "Huw Edwards gives first interviews since conviction",
-     "summary": "Huw Edwards has given his first interviews since his conviction for child abuse image offences. Minister Anna Turley said she was \"deeply uncomfortable\" with the interviews, while Channel 4 insisted it \"holds Edwards to account\".",
-     "link": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Entertainment",
+     "headline": "Depardieu ordered to stand trial",
+     "summary": "French actor Gérard Depardieu has been ordered to stand trial for rape and sexual assault. The case is one of the most prominent in France's reckoning with sexual violence.",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+     "source": "NPR World",
      "paywalled": false,
      "also": []
     },
     {
-     "headline": "Tributes for Duran Duran guitarist Andy Taylor and King Crimson drummer Michael Giles",
-     "summary": "Tributes have been paid to Duran Duran guitarist Andy Taylor, who died aged 65. Bandmate Simon Le Bon said Taylor \"brought an indelible fire and swagger to our music\". King Crimson co-founder and drummer Michael Giles has also died, aged 84.",
-     "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Entertainment",
+     "headline": "Channel 4 defends Huw Edwards documentary",
+     "summary": "Channel 4 defended its decision to make a documentary about disgraced former BBC newsreader Huw Edwards, saying it \"holds him to account, with no questions off limits\". Downing Street said it has no interest in hearing from him.",
+     "link": "https://news.sky.com/story/channel-4-defends-making-huw-edwards-documentary-as-number-10-reacts-13617198",
+     "source": "Sky News Entertainment",
      "paywalled": false,
      "also": [
-      "Guardian Culture"
+      "BBC Entertainment"
      ]
     },
     {
-     "headline": "Government antisemitism adviser probes BBC",
-     "summary": "Lord Mann has launched an investigation into the BBC after what he describes as \"growing discomfort among Jewish BBC staff\". The BBC was not quoted in the items.",
-     "link": "https://www.bbc.co.uk/news/articles/cw782ml8ndgyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Entertainment",
+     "headline": "Phoebe Bridgers phone-free tour review",
+     "summary": "A Guardian review praised Phoebe Bridgers' phone-free arena show at Co-op Live in Manchester as a cosmic, communal experience. Bridgers banned phones on her Lost Weekend tour.",
+     "link": "https://www.theguardian.com/music/2026/nov/27/phoebe-bridgers-review-co-op-live-manchester",
+     "source": "Guardian Culture",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Mike Leigh announces final film",
+     "summary": "Director Mike Leigh has announced that Tender Loving Care will be his last film, after 55 years of work.",
+     "link": "https://www.theguardian.com/film/2026/nov/27/mike-leigh-interview-last-film-tender-loving-care",
+     "source": "Guardian Culture",
      "paywalled": false,
      "also": []
     }
@@ -348,34 +338,26 @@
    "emoji": "🌱",
    "stories": [
     {
-     "headline": "Baby with brain cancer makes full recovery",
-     "summary": "An infant girl given weeks to live from aggressive brain cancer has made a full recovery. Her case reached a hospital that had just finished a study on her type of cancer, and the trial had run at St. Jude Children's Hospital.",
-     "link": "https://www.goodnewsnetwork.org/girl-given-weeks-to-live-on-christmas-eve-makes-miracle-recovery-after-serendipitous-call-to-st-jude/",
-     "source": "Good News Network",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Texans farm free to fund college scholarships",
-     "summary": "Texas residents have spent 15 years farming land not their own for free to raise money for college scholarships. The tradition has paid out $3 million to hundreds of high school students.",
-     "link": "https://www.goodnewsnetwork.org/texans-work-for-free-on-farms-that-arent-theirs-to-send-others-kids-to-college/",
-     "source": "Good News Network",
-     "paywalled": false,
-     "also": []
-    },
-    {
-     "headline": "Floating nature islands for Glasgow parks",
-     "summary": "Floating nature islands are being planted in five Glasgow parks as part of the Glasgow Games legacy. They are designed to encourage wildlife and help clean the water.",
+     "headline": "Floating islands for Glasgow parks",
+     "summary": "Floating nature islands are being planted in five Glasgow parks as a Games legacy. They are designed to encourage wildlife and help clean the water.",
      "link": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Science",
      "paywalled": false,
      "also": []
     },
     {
-     "headline": "Waterstones prize for father and son's cut-out book",
-     "summary": "A father and son from Bristol have won a Waterstones book prize for their cut-out picture book, described as \"picture-book perfection\".",
-     "link": "https://www.bbc.co.uk/news/articles/cmn4kq459gexo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Entertainment",
+     "headline": "Rare turtles rescued from airport baggage",
+     "summary": "Endangered turtles were found in baggage at Amsterdam airport. Officials say they had been bound with duct tape.",
+     "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "paywalled": false,
+     "also": []
+    },
+    {
+     "headline": "Mad about mara: Nigerian DIY dance movement",
+     "summary": "A DIY dance movement called mara has grown from one artist's response to being cut out of a music video into a driving force in Nigeria's cultural landscape, helping young people escape the daily grind.",
+     "link": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+     "source": "Guardian World",
      "paywalled": false,
      "also": []
     }
@@ -387,10 +369,10 @@
    "emoji": "📖",
    "stories": [
     {
-     "headline": "Solo dining becomes a self-care trend",
-     "summary": "Dining alone is being embraced as a self-care trend and is reshaping the restaurant industry. One writer says they spend £200 a month on fancy meals by themselves.",
-     "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
+     "headline": "Mathematics and AI",
+     "summary": "AI has helped crack a problem that has defied mathematicians since 1859, the Riemann hypothesis, prompting a Guardian editorial on whether its power will stay in the hands of billionaires.",
+     "link": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy",
+     "source": "Guardian Business",
      "paywalled": false,
      "also": []
     }
@@ -399,7 +381,7 @@
  ],
  "feed_failures": [],
  "usage": {
-  "input_tokens": 20209,
-  "output_tokens": 3707
+  "input_tokens": 18303,
+  "output_tokens": 3252
  }
 }
